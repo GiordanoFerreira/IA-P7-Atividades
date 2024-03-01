@@ -1,5 +1,5 @@
-filmes = ["filme1", "filme2"]
-series = ["serie1", "serie2"]
+filmes = ["Os Vingadores", "Carros", "Shrek 2", "O Jogo da Imitacao"]
+series = ["One Piece", "Sillicon Valley", "Breaking Bad", "Avatar Lenda de Aang"]
 
 def catalogo():
     print("""\n-- Escolha qual catalogo deseja visualizar:\n
